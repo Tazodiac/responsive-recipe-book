@@ -87,6 +87,10 @@ h1, h2, h3{
   color: #be4127;
 }
 
+h2 {
+  font-size:2rem;
+}
+
 .one_quarter, .two_quarter{
   display:block;
   float:left;
@@ -183,6 +187,12 @@ h1, h2, h3{
   float:right;
   width:630px;
   height:300px;
+}
+
+#container #slider2 figure img{
+  float:left;
+  width:960px;
+  height:480px;
 }
 
 #container #slider figure figcaption {
